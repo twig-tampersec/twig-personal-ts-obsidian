@@ -1,0 +1,307 @@
+{
+  "main": {
+    "id": "1c4de6152222120c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f1b6169e8e56ab8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42ea6f40d7915f05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "f9a48f7d8b8b3c0b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
+            "id": "40e0b64b728d1377",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ts arch and design goals.canvas",
+                "viewState": {
+                  "x": -110.77227405548095,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "ts arch and design goals"
+            }
+          },
+          {
+            "id": "aadbc98911a44e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "User archetypes/Irene.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Irene"
+            }
+          },
+          {
+            "id": "9e9bdbd43ed6a925",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ts arch and design goals.canvas",
+                "viewState": {
+                  "x": 555.5,
+                  "y": 164.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "ts arch and design goals"
+            }
+          },
+          {
+            "id": "462a953f0bd6cbfd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ts arch and design goals.canvas",
+                "viewState": {
+                  "x": 315.5,
+                  "y": 164.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "ts arch and design goals"
+            }
+          },
+          {
+            "id": "e208be4246cb3d06",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ts arch and design goals.canvas",
+                "viewState": {
+                  "x": 3772.6686590472855,
+                  "y": 1316.2027539978208,
+                  "zoom": -1.1102230246251565e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "ts arch and design goals"
+            }
+          },
+          {
+            "id": "36d10dceaf3b2343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "969b218e16349fba",
+    "type": "split",
+    "children": [
+      {
+        "id": "a11a08eed70111df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b91d6fbe347beb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d523a3921fa1908d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "766502254d5377f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "c15c43966c02ac1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "74f6ede1a533acba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc6c0d797740d048",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "justin meeting notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for justin meeting notes"
+            }
+          },
+          {
+            "id": "1a41461639ff8b95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "justin meeting notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from justin meeting notes"
+            }
+          },
+          {
+            "id": "13af76e5948a4940",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f32891405b00db6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "justin meeting notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of justin meeting notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e208be4246cb3d06",
+  "lastOpenFiles": [
+    "ts arch and design goals.canvas",
+    "ABC categorization.md",
+    "iterate on integration.md",
+    "tamper-evident camera.md",
+    "DGX Spark box.md",
+    "Untitled 1.md",
+    "External file/TamperSec R&D Strategy.md",
+    "External file",
+    "business plan.md",
+    "Untitled.md",
+    "Hypothetical pitch.md",
+    "overall architecture (for users).canvas",
+    "monitoring and attestation system.md",
+    "test test.canvas",
+    "User archetypes.md",
+    "User archetypes/Larry.md",
+    "User archetypes/Irene.md",
+    "User archetypes",
+    "Welcome.md",
+    "justin meeting notes.md",
+    "User archetypes/Farah.md",
+    "why.md"
+  ]
+}
