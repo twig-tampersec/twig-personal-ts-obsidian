@@ -1,3 +1,7 @@
+---
+author: Jonathan Happel
+---
+
 ## Vision
 
 Reduce risks of AI arms races by creating a hardware security solution that enables nation states to verify what they are doing with their AI hardware.

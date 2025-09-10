@@ -102,10 +102,14 @@
             "id": "e208be4246cb3d06",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Air passthrough.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Air passthrough"
             }
           },
           {
@@ -274,13 +278,16 @@
   },
   "active": "e208be4246cb3d06",
   "lastOpenFiles": [
-    "ts arch and design goals.canvas",
+    "DGX Spark box.md",
+    "Air passthrough.md",
+    "Filament passthrough.md",
     "ABC categorization.md",
+    "External file/TamperSec R&D Strategy.md",
+    "Mesh box.md",
+    "Untitled 1.md",
+    "ts arch and design goals.canvas",
     "iterate on integration.md",
     "tamper-evident camera.md",
-    "DGX Spark box.md",
-    "Untitled 1.md",
-    "External file/TamperSec R&D Strategy.md",
     "External file",
     "business plan.md",
     "Untitled.md",
