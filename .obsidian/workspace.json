@@ -102,17 +102,10 @@
             "id": "e208be4246cb3d06",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ts arch and design goals.canvas",
-                "viewState": {
-                  "x": 3772.6686590472855,
-                  "y": 1316.2027539978208,
-                  "zoom": -1.1102230246251565e-16
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "ts arch and design goals"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
